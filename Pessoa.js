@@ -17,9 +17,15 @@ set nome(nome){
 }
 
 fala(){
+<<<<<<< HEAD
 return `Olá, meu nome é  ${this.#nome} e tenho ${this.idade} anos.`;
   
 }
 
 
 }
+=======
+    return 'Olá, meu nome é ${this.nome} 
+}
+}
+>>>>>>> 315ac23f2af4cf255b6ad7d837667db1bab397fb

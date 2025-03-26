@@ -6,6 +6,7 @@ console.log("Pagina carregou...");
 
 
 
+<<<<<<< HEAD
 let Vegeta = new Aluno();
 let Goku = new Aluno();
 
@@ -33,3 +34,12 @@ Gohan.nome = 'Gohan';
 
 console.log(Videl.fala());
 console.log(Gohan.fala());
+=======
+let Vegeta = new Aluno('Vegeta', 53, 200);
+let Goku = new Aluno('Goku', 50, 201);
+
+
+
+Vegeta.fala();
+Goku.fala();
+>>>>>>> 315ac23f2af4cf255b6ad7d837667db1bab397fb

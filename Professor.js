@@ -5,5 +5,4 @@ super(nome, idade);
 this.materia = materia;
 }
 
-
 }
